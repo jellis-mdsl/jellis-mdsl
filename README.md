@@ -1,4 +1,4 @@
-👋 Hi, I’m @jellis-mdsl, I work at Calero-MDSL as a senior software developer.
+👋 Hi, I’m @jellis-mdsl, I work at Calero-MDSL as a software developer.
 
 <!---
 jellis-mdsl/jellis-mdsl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
